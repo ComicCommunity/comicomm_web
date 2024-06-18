@@ -1,0 +1,49 @@
+{
+  "name": "comicom",
+  "version": "1.0.0",
+  "private": true,
+  "description": "comicom",
+  "author": "akaramaki",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mdx-js/react": "^2.3.0",
+    "autoprefixer": "^10.4.15",
+    "eslint": "^8.48.0",
+    "gatsby": "^5.12.1",
+    "gatsby-adapter-netlify": "^1.0.0",
+    "gatsby-cli": "^5.12.4",
+    "gatsby-omni-font-loader": "^2.0.2",
+    "gatsby-plugin-image": "^3.12.0",
+    "gatsby-plugin-mdx": "^5.12.0",
+    "gatsby-plugin-postcss": "^6.12.0",
+    "gatsby-plugin-sass": "^6.12.0",
+    "gatsby-plugin-sharp": "^5.12.0",
+    "gatsby-remark-images": "^7.12.0",
+    "gatsby-remark-relative-images": "^2.0.5",
+    "gatsby-source-filesystem": "^5.12.0",
+    "gatsby-transformer-remark": "^6.12.0",
+    "gatsby-transformer-sharp": "^5.12.0",
+    "postcss": "^8.4.28",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "sass": "^1.66.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "eslint-config-react-app": "^7.0.1",
+    "typescript": "^5.1.6"
+  }
+}
