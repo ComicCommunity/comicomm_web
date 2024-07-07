@@ -18,9 +18,9 @@ name:"ここにサークル名"
 ## 開発者用説明
 使用言語はTSとSCSS(CSSと互換あり)でJAMStac。静的サイトジェネレータGatsbyを使ってReactで書いたサイトをNetlifyでデプロイ。レポジトリをクローンして、
 `npm install`で依存パッケージをインストールする。
+もしそれでエラーが出た場合は，`npm audit fix --force` で脆弱性の問題の対処をすると解決する可能性がある．
 
 ```shell
-cd comicom
 npm run develop
 ```
 
