@@ -14,8 +14,10 @@ name:"ここにサークル名"
 
 サイトロゴ → static/images内のimagetopとhidariue。faviconはなんか反映できてない。
 
+
 ## 開発者用説明
-使用言語はTSとSCSS(CSSと互換あり)でJAMStac。静的サイトジェネレータGatsbyを使ってReactで書いたサイトをNetlifyでデプロイ。レポジトリをクローンして
+使用言語はTSとSCSS(CSSと互換あり)でJAMStac。静的サイトジェネレータGatsbyを使ってReactで書いたサイトをNetlifyでデプロイ。レポジトリをクローンして、
+`npm install`で依存パッケージをインストールする。
 
 ```shell
 cd comicom
