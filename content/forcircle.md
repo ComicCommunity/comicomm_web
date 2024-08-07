@@ -1,12 +1,13 @@
 ---
 slug: "forcircle"
 title: "サークル参加の方へ"
-date: "2023-11-18"
+date: "2024年08月03日"
 ---
 
-申し込みに際しては下記の内容にすべて目を通していただきますよう宜しくお願いします。なお、以下の内容は変更される場合がございます。変更の場合、公式X(Twitter)でお知らせいたします。
+現在CC06のサークル出展仮登録を受け付けております。[こちらのform](https://docs.google.com/forms/d/e/1FAIpQLSdG1Om2dt1rTw8Wm4EHDTxAg6l5pvGDVJOdiO1FMyq3kyKTdA/viewform)にアクセスいただき、必要事項を**8/15(木)まで**にご記入ください。\
+参考までに、昨年度の募集要項を掲載いたします。
 
-# 募集要項
+# 募集要項 (2023年度版)
 |  |  |
 | ---- | ---- |
 | 名称 | Commic Community 05 |

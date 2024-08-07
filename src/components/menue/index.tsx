@@ -4,7 +4,34 @@ import React from "react"
 
 type linkset = { text: string, url: string, isLocal: Boolean }
 
-const menuesetli: linkset[] = [{ text: "サークルカット一覧", url: "/circlecut", isLocal: true }, { text: "一般参加の方へ", url: "/participation", isLocal: true }, { text: "サークル参加の方へ", url: "/forcircle", isLocal: true }, { text: "Twitter", url: "https://twitter.com/ComiCommKyoto", isLocal: false }]
+const menuesetli: linkset[] = [
+    { 
+        text: "CC05参加サークル一覧",
+        url: "/circlecut",
+        isLocal: true 
+    },
+    { 
+        text: "Comic Community(こみこみ)とは", 
+        url: "/aboutus", 
+        isLocal: true 
+    }, 
+    { 
+        text: "一般参加の方へ", 
+        url: "/participation", 
+        isLocal: true 
+    }, 
+    { 
+        text: "サークル参加の方へ", 
+        url: "/forcircle", 
+        isLocal: true 
+    }, 
+    { 
+        text: "Twitter", 
+        url: "https://twitter.com/ComiCommKyoto", 
+        isLocal: false 
+    },
+
+]
 
 const single = (menue: linkset) =>
     <li>

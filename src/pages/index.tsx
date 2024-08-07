@@ -22,6 +22,7 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
         </div>
         <div className="top_content" dangerouslySetInnerHTML={{ __html: data.markdownRemark?.html }} />
       </div>
+      
     </main>
   )
 }

@@ -11,7 +11,7 @@ query DocPage($id: String) {
   markdownRemark(id: {eq: $id}) {
     frontmatter{
         title
-        date(formatString: "YYYY年MM月DD日")
+        date
     }
     html
   }
