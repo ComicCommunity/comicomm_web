@@ -11,7 +11,7 @@ const menuesetli: linkset[] = [
         isLocal: true 
     },
     { 
-        text: "Comic Community(こみこみ)とは", 
+        text: "こみこみについて", 
         url: "/aboutus", 
         isLocal: true 
     }, 
