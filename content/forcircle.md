@@ -17,7 +17,7 @@ date: "2024年09月29日"
 - 場所：総合研究9号館W301講義室
 
 ## 出展方式・開催スケジュール
-![開催方式](static/images/CC_nittei.png)
+![開催方式](https://github.com/ComicCommunity/comicomm_web/blob/main/static/images/CC_nittei.png)
 
 |  |  | 日時 |  | 推奨する出展方式 |
 |----------|-------|-----------|-------------|--------------|
