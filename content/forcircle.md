@@ -17,7 +17,7 @@ date: "2024年09月29日"
 - 場所：総合研究9号館W301講義室
 
 ## 出展方式・開催スケジュール
-![開催方式](https://github.com/ComicCommunity/comicomm_web/blob/main/static/images/CC_nittei.png)
+<img src="../static/images/CC_nittei.png" alt="開催方式" width="100%">
 
 |  |  | 日時 |  | 推奨する出展方式 |
 |----------|-------|-----------|-------------|--------------|
@@ -97,11 +97,11 @@ date: "2024年09月29日"
 
 サークルカットのテンプレート
 
-![template](https://kitchon.net/special/comcom04/circlecut_template.png)
+![template](static/images/circlecut_template.png)
 
 記入例
 
-![記入例](https://kitchon.net/special/comcom04/circlecut_mihon.png)
+![記入例](static/images/circlecut_mihon.png)
 
 ## その他注意事項
 ### コスプレ売り子について
