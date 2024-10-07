@@ -95,13 +95,13 @@ date: "2024年09月29日"
 
 提出先は、上記の[サークル基本情報のご登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSedYro4jBpwqrafFTZC2lbq24Wzw7ow1Eyw-QAu9L0B4TpEjA/formResponse)となっております。
 
-サークルカットのテンプレート
+### サークルカットのテンプレート
 
-![template](static/images/circlecut_template.png)
+<img src="../static/images/circlecut_template.png" alt="サークルカットテンプレート" width="100%">
 
-記入例
 
-![記入例](static/images/circlecut_mihon.png)
+### 記入例
+<img src="../static/images/circlecut_mihon.png" alt="サークルカット記入例" width="100%">
 
 ## その他注意事項
 ### コスプレ売り子について
