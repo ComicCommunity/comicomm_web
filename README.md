@@ -12,7 +12,7 @@ name:"ここにサークル名"
 以下サークル紹介。
 ```
 
-サイトロゴ → static/images内のimagetopとhidariue。faviconはなんか反映できてない。
+サイトロゴ → static/images内のimagetopとhidariue。faviconはなんか反映できて~~ない~~いる。(localでは見えない)
 
 
 ## 開発者用説明
