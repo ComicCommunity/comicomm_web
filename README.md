@@ -40,12 +40,17 @@ npm run develop
 以上です。
 
 ## Github Desktop Vscodeでの開発方法
+ここでは、方法論だけ説明しています。エンジニア的な思想や概念については、各自調べてください。
+
+参考: 
+- https://qiita.com/yasu_qita/items/3a24322f0ebdd443ba7e
+- https://qiita.com/higakin/items/ead91bf04720f8eb07c0
+
 ### 概要
 開発の流れとしては、以下のようになる。
 1. リモートからcloneしてローカルにリポジトリを持ってくる (
 [Github Desktop × Vscodeでの環境構築方法](#github-desktop-vscodeでの環境構築方法) にて完了想定)
-
-2. ブランチを切る 
+2. mainを最新にした上でブランチを切る 
 3. ファイルを編集、コミット
 4. プッシュ
 5. プルリクエストを出す
@@ -60,6 +65,8 @@ A. 枝分かれした開発の流れを管理するためのもの。これを�
 
 #### ブランチの切り方
 1. Github Desktopを開いて、`Current Repository`をクローンしたリポジトリに設定する。
+2. mainブランチを最新にする。\
+`Repository` -> `Pull`をクリックする。
 2. メニューバーの `Branch` -> `New Branch` で新しいブランチを切る。
 3. ブランチ名を入力して、`Create Branch`をクリックする。
     - ブランチ名は、作業内容がわかりやすいようにすると良い。英語推奨(日本語だとブランチ名が正しく表示されないことがある)。
@@ -83,3 +90,6 @@ e.g. ![image](example.jpg)
 4. プルリクエストが作成される。
 
 5. プルリクエストが作成されると、他の開発者がコードをレビューし、問題がなければmainブランチにマージされる。
+
+### 理論を学習したい方へ
+ｵｽｽﾒ: https://zenn.dev/masatotezuka/articles/0c561138491569
