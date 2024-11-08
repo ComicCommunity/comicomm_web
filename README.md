@@ -39,7 +39,7 @@ npm run develop
 
 以上です。
 
-## Github Desktop Vscodeでの開発方法
+## Github Desktop × Vscodeでの開発方法
 ここでは、方法論だけ説明しています。エンジニア的な思想や概念については、各自調べてください。
 
 参考: 
