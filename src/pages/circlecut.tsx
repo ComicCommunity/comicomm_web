@@ -6,6 +6,7 @@ import menue from "../components/menue/index"
 import "../styles/circlecut.scss"
 import { link } from "fs"
 import { NULL } from "sass"
+import EmbedPdf from "../components/embed-pdf"
 
 export const query = graphql`
 query Circlecuts{
@@ -82,7 +83,8 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
   return (
     <main>
       {menue}
-      <h1>CC05参加サークル一覧</h1>
+      <h1>CC06参加サークル一覧</h1>
+      pdf版は<a href="../circlecutPdf">こちら</a>から
       <ul className="circlecut"> {imgList} </ul>
     </main>
   )
@@ -90,4 +92,4 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>CC05参加サークル一覧</title>
+export const Head: HeadFC = () => <title>CC06参加サークル一覧</title>
