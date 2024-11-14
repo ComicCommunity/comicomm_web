@@ -40,7 +40,7 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
     <main>
       {menue}
       <h1>CC06参加サークル一覧（PDF版）</h1>
-      <EmbedPdf src="/pdf/circlecut.pdf" width="100%" height="800px" />
+      {/* <EmbedPdf src="/pdf/circlecut.pdf" width="100%" height="800px" /> */}
     </main>
   )
 }
