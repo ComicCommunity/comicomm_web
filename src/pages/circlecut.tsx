@@ -84,6 +84,7 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
     <main>
       {menue}
       <h1>CC06参加サークル一覧</h1>
+      詳細は<a href="../circlecutPdf">こちら</a>から！
       <ul className="circlecut"> {imgList} </ul>
     </main>
   )
