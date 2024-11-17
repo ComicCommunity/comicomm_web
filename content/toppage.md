@@ -8,9 +8,6 @@ page: "toppage"
 
 #### お知らせ
 [サークルカット一覧](/circlecut)を公開！
-pdf版も以下からご覧になれます
-<script src="https://deno.land/x/embed_pdf@v1.2.0/mod.js" type="module"></script>
-<embed-pdf src="../static/images/circlecut.pdf" width="100%" height="800px"></embed-pdf>
 
 #### 開催日時
 11/20(水)〜11/21(木)  11:00-17:00\
