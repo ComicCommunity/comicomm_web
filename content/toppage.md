@@ -11,7 +11,7 @@ page: "toppage"
 参加希望のサークル様は[サークル参加の方へ](https://comicomm.netlify.app/forcircle/)をお読みの上、[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeTYpDgJyrM2QRjqfmCUGjl6BztR6G-ZoOHJ_gwwHgyTS7zUg/viewform)をご提出ください。
 
 #### 開催日時
-5/10(土)（変更の可能性あり）
+5/10(土)（変更の可能性あり）　10:00~15:30
 
 #### 開催場所
 文学部棟第一講義室または第二講義室
