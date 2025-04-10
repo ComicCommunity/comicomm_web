@@ -1,13 +1,11 @@
 ---
 slug: "forcircle"
 title: "サークル参加の方へ"
-date: "2025年03月03日"
+date: "2025年04月11日"
 ---
 
-現在CC07のサークル出展参加本登録を受け付けております。以下のCC07開催概要をご覧になって、下記の参加登録フォームに必要事項をご記入ください。\
-期限は**3/15(木)まで**となっております。
-https://docs.google.com/forms/d/e/1FAIpQLSeTYpDgJyrM2QRjqfmCUGjl6BztR6G-ZoOHJ_gwwHgyTS7zUg/viewform
-
+## お知らせ
+サークル参加の申し込みは終了いたしました。
 
 ## CC07開催概要
 

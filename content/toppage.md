@@ -7,8 +7,7 @@ page: "toppage"
 ### 同人誌即売会　兼　文化系サークル合同新歓 CC07 開催決定！
 
 #### お知らせ
-3/15(土)まで参加募集中です！
-参加希望のサークル様は[サークル参加の方へ](https://comicomm.netlify.app/forcircle/)をお読みの上、[参加登録フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeTYpDgJyrM2QRjqfmCUGjl6BztR6G-ZoOHJ_gwwHgyTS7zUg/viewform)をご提出ください。
+サークル参加の申し込みは終了いたしました。
 
 #### 開催日時
 5/10(土)（変更の可能性あり）　10:00~15:30

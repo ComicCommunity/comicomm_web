@@ -6,7 +6,7 @@ type linkset = { text: string, url: string, isLocal: Boolean }
 
 const menuesetli: linkset[] = [
     { 
-        text: "CC06参加サークル一覧",
+        text: "CC07参加サークル一覧",
         url: "/circlecut",
         isLocal: true 
     },
