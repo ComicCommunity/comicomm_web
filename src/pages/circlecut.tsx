@@ -83,7 +83,7 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
   return (
     <main>
       {menue}
-      <h1>CC06参加サークル一覧</h1>
+      <h1>CC07参加サークル一覧</h1>
       詳細は<a href="../circlecutDetail">こちら</a>から！
       <ul className="circlecut"> {imgList} </ul>
     </main>
@@ -92,4 +92,4 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>CC06参加サークル一覧</title>
+export const Head: HeadFC = () => <title>CC07参加サークル一覧</title>
