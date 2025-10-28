@@ -1,0 +1,22 @@
+@import 'sanitize';
+@import 'theme';
+
+* {
+    color: $base-color;
+    font-family: $serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: $sans;
+}
+
+strong {
+    color: $acce-color1;
+}
+
+body {
+    background: url('../../static/images/bg.webp') repeat;
+    padding: 0 max(10px, 2%);
+    min-width: 800px;
+    // min-height: 1000px;
+}
