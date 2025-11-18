@@ -5,7 +5,7 @@ date: "2025年09月27日"
 ---
 
 ## お知らせ
-**サークル参加受付中！登録は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSdg8H8qhYOUhHH9ykfp1CVXxcqpHvfBUETipsGJf4jLdKB5Eg/viewform)から**
+サークル参加受付は締め切りました。たくさんのお申し込みありがとうございました。
 
 ## CC08開催概要
 
