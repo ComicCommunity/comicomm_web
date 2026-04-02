@@ -95,8 +95,7 @@ e.g. ![image](example.jpg)
 1. 編集したいファイルの鉛筆マークを押して、編集する
 2. 適当な作業単位になったらcommit changesを押してコミットする
 3. Create a new branch for this commit and start a pull request.を選択し（必ずブランチを切る！）、propose changesを押す
-4. 他にも編集すべき点があれば適当な作業単位で3で作ったブランチにコミットする。
-5. Merge pull requestを押しmain branchに作業中のブランチをマージする。
+4. Merge pull requestを押しmain branchに作業中のブランチをマージする。
 
 ### 理論を学習したい方へ
 ｵｽｽﾒ: https://zenn.dev/masatotezuka/articles/0c561138491569
