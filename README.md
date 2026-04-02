@@ -23,6 +23,8 @@ google formの結果をスプレッドシートで表示したあと、拡張機
 
 サイトロゴ → static/images内のimagetopとhidariue。faviconはなんか反映できて~~ない~~いる。(localでは見えない)
 
+目次 → 目次のタイトルを変えたい場合、index.tsxの7行目のconst menuesetli: linkset[] = [以下にあるtext:以下を変更する。
+
 
 ## 開発者用説明
 使用言語はTSとSCSS(CSSと互換あり)でJAMStac。静的サイトジェネレータGatsbyを使ってReactで書いたサイトをNetlifyでデプロイ。レポジトリをクローンして、
