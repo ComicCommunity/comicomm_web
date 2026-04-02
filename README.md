@@ -15,7 +15,8 @@ name:"ここにサークル名"
 google formの結果をスプレッドシートで表示したあと、拡張機能 > Apps Script > Markdown Converter で開くことができる。
 \
 7,8行目
-``` const name = data[i][1]; // サークル名
+```
+    const name = data[i][1]; // サークル名
     const content = data[i][6]; // 説明文
 ```
 の2つ目の[]にサークル名、説明文が左から何番目か（ただし一番左を0とする）を入れ、実行ボタンを押すと、実行結果にmarkdownが入ったURLが出力される。
@@ -103,7 +104,7 @@ e.g. ![image](example.jpg)
 1. 編集したいファイルの鉛筆マークを押して、編集する。
 2. 適当な作業単位になったらcommit changesを押してコミットする。
 3. Create a new branch for this commit and start a pull request.を選択し（必ずブランチを切る！）、propose changesを押す。
-4. 他にも編集すべき点があれば適当な作業単位ごとに3で作ったブランチにコミットする。
+4. 他にも編集すべき点があれば現在のブランチを3で作ったものに設定しながら作業を行い適当な作業単位ごとにcommit changesを押す。
 5. Merge pull requestを押しmain branchに作業中のブランチをマージする。
 
 ### 理論を学習したい方へ
