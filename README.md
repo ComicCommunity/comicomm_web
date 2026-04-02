@@ -13,9 +13,11 @@ name:"ここにサークル名"
 ```
 なお、Google Formで集めたサークル名と説明文を自動でmarkdownにするプログラムがある。
 google formの結果をスプレッドシートで表示したあと、拡張機能 > Apps Script > Markdown Converter で開くことができる。
+\
 7,8行目
-    const name = data[i][1]; // サークル名
+``` const name = data[i][1]; // サークル名
     const content = data[i][6]; // 説明文
+```
 の2つ目の[]にサークル名、説明文が左から何番目か（ただし一番左を0とする）を入れ、実行ボタンを押すと、実行結果にmarkdownが入ったURLが出力される。
 
 サイトロゴ → static/images内のimagetopとhidariue。faviconはなんか反映できて~~ない~~いる。(localでは見えない)
