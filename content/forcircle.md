@@ -5,6 +5,9 @@ date: "2026年4月9日"
 ---
 
 ## お知らせ
+現在サークル募集中です。締切は4/11（土）です。
+参加フォームは[こちら](<img width="829" height="655" alt="image" src="https://github.com/user-attachments/assets/cff5642e-1cbd-4639-a831-4fc353cc8090" />
+)
 
 ## CC09開催概要
 
