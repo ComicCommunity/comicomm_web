@@ -39,7 +39,7 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
   return (
     <main>
       {menue}
-      <h1>CC06参加サークル詳細</h1>
+      <h1>CC08参加サークル詳細</h1>
       <img src="/images/CC06_circlelist_omote.png" alt="CC06参加サークル一覧表" width="100%"/>
       <img src="/images/CC06_circlelist_ura.png" alt="CC06参加サークル一覧表" width="100%" />
     </main>
@@ -48,4 +48,4 @@ const IndexPage = ({ data }: PageProps<Queries.IndexPageQuery>) => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>CC06参加サークル詳細</title>
+export const Head: HeadFC = () => <title>CC08参加サークル詳細</title>
