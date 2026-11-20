@@ -1,7 +1,7 @@
 ---
 slug: "aboutus"
 title: "Comic Community（こみこみ） サークル概要"
-date: "2025年04月11日"
+date: "2025年08月02日"
 ---
 
 ##  基本情報
