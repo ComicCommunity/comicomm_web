@@ -28,7 +28,7 @@ google formの結果をスプレッドシートで表示したあと、`拡張�
 
 ## 開発者用説明
 使用言語はTSとSCSS(CSSと互換あり)でJAMStac。静的サイトジェネレータGatsbyを使ってReactで書いたサイトをNetlifyでデプロイ。レポジトリをクローンして、
-`npm install`で依存パッケージをインストールする。
+`npm install`で依存パッケージをインストールする。Node.jsはバージョン22を使う（`.nvmrc` で指定。Netlifyもこれを読んでビルドする）。
 エラーが出た場合は、`node_modules` フォルダを削除してから `npm install` し直す。
 `npm audit fix --force` は使わないこと（Gatsbyやプラグインが古い版に戻ってサイトが壊れることがある）。
 なお、`npm audit` で残っている脆弱性はGatsby本体の内部依存によるもので、Gatsby側の更新待ち（ビルド時のみ使用され、公開サイトには含まれない）。Gatsbyの更新が出たら `npm update` してビルドが通るか確認する。
